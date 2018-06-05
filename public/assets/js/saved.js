@@ -1,0 +1,1 @@
+// This file holds the JS code that effects the Notes page.
